@@ -2,3 +2,8 @@
     border: 1px solid red;
     font-size: 24px;
 }
+
+.second {
+    font-style: 28px;
+    border: 1px dashed black;
+}
